@@ -35,7 +35,7 @@ Open **Command Prompt** as Administrator, and run the following commands:
    netsh wlan show profiles
 
 2) Show the password for a specific Wi-Fi network:
-   netsh wlan show profiles name="<ProfileName>" key=clear
+   netsh wlan show profile name="<ProfileName>" key=clear
 
 
 
